@@ -37,7 +37,7 @@
 		<richtextfx.version>0.7-M2</richtextfx.version>
 		<jfxtras.version>8.0-r5</jfxtras.version>
 		<controlsfx.version>8.40.14</controlsfx.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<testfx.version>4.0.15-alpha</testfx.version>
 		<monocle.version>8u76-b04</monocle.version>
 		<loadui.version>3.1.2</loadui.version>
